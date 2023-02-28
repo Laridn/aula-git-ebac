@@ -1,9 +1,10 @@
-Dados do aluno
+Dados da aluna
 
-- Primeiro Nome: Larissa do Nascimento
-- Profissão: Analista de Qualidade de Software - Ex professora da Educação infantil
+- Nome completo: Larissa do Nascimento
+- Profissão: Analista de Qualidade de Software - Ex professora da Educação Infantil
 - Cidade: São Paulo - SP
-- O que faz nas horas vaga: Gosto de ler, ir à academia, estudar, ouvir música e dançar 
+- O que faz nas horas vaga: Gosto de ler, ir à academia, estudar, ouvir música, dançar e 
+sair para comer.
 - Feedback sobre o curso Qualidade de Software: Estou gostando muito, está sendo ótimo 
 para o meu crescimento profissional
 - Feedback sobre a plataforma de estudo da EBAC: Ótima plataforma de estudos, completa e 
