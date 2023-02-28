@@ -1,7 +1,7 @@
 Dados do aluno
 
 - Primeiro Nome: Larissa do Nascimento
-- Profissão: Analista de Qualidade de Software
+- Profissão: Analista de Qualidade de Software - Ex professora da Educação infantil
 - Cidade: São Paulo - SP
 - O que faz nas horas vaga: Gosto de ler, ir à academia, estudar, ouvir música e dançar 
 - Feedback sobre o curso Qualidade de Software: Estou gostando muito, está sendo ótimo 
