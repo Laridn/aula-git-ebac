@@ -1,11 +1,13 @@
 Dados do aluno
 
--Primeiro Nome:
--Profissão:
--Cidade:
--O que faz nas horas vaga:
--Feedback sobre o curso Qualidade de Software:
--Feedback sobre a plataforma de estudo da EBAC:
+- Primeiro Nome: Larissa do Nascimento
+- Profissão: Analista de Qualidade de Software
+- Cidade: São Paulo - SP
+- O que faz nas horas vaga: Gosto de ler, ir à academia, estudar, ouvir música e dançar 
+- Feedback sobre o curso Qualidade de Software: Estou gostando muito, está sendo ótimo 
+para o meu crescimento profissional
+- Feedback sobre a plataforma de estudo da EBAC: Ótima plataforma de estudos, completa e 
+fácil de usar
 
 Obrigado!!!
 
